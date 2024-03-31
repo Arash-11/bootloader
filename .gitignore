@@ -1,0 +1,9 @@
+*.bin
+*.o
+*.swp
+*.dis
+*.elf
+*.sym
+
+.DS_STORE
+.vscode
