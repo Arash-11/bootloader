@@ -7,4 +7,4 @@
 - [x] Switch to 32-bit protected mode.
 - [x] Print to screen in 32-bit protected mode using video RAM.
 
-Uses NASM and QEMU. On Mac, you can install these via Homebrew: `brew install nasm qemu`
+Uses NASM and QEMU. To run, install NASM and QEMU, and then just run `make`.
